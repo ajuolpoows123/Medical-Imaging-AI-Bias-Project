@@ -1,0 +1,33 @@
+Data - Age Group age = [47, 36, 43, 25, 52, 23, 38, 22, 57, 36, 32, 51, 21, 26, 21, 20, 51, 31, 60, 53, 42, 58, 33, 64, 53, 
+       38, 31, 43, 38, 45, 43, 55, 41, 51, 48, 42, 45, 41, 50, 61, 43, 58, 47, 37, 53, 48, 35, 44, 37, 40, 
+       32, 25, 32, 52, 19, 34, 60, 44, 52, 24, 48, 44, 66, 64, 20, 42, 32, 39, 41, 34, 45, 29, 27, 30, 28, 31, 33]
+IQ Group:  [81, 104, 108, 106, 102, 104, 100, 98, 112, 71, 102, 93, 87, 100, 100, 110, 110, 101, 102, 108, 
+      108, 98, 104, 114, 106, 87, 106, 109, 108, 85, 104, 102, 112, 100, 106, 100, 95, 89, 108, 83, 
+      106, 104, 114, 98, 93, 93, 100, 110, 104, 85, 102, 102, 106, 106, 98, 116, 97, 104, 89, 110, 
+      102, 93, 98, 97, 105, 110, 95, 99, 96, 103, 100, 104, 101, 105, 99, 107, None]
+Gender Group:  ['male', 'male', 'male', 'male', 'female', 'female', 'female', 'male', 'female', 'female', 'male', 
+          'female', 'male', 'male', 'female', 'male', 'male', 'male', 'male', 'male', 'male', 'male', 'male', 
+          'male', 'male', 'male', 'male', 'female', 'male', 'male', 'female', 'female', 'male', 'female', 
+          'male', 'female', 'male', 'female', 'female', 'male', 'female', 'male', 'female', 'female', 
+          'female', 'male', 'female', 'male', 'female', 'male', 'female', 'female', 'male', 'female', 
+          'female', 'male', 'male', 'female', 'male', 'female', 'female', 'male', 'male', 'female', 
+          'female', 'female', 'male', 'female', 'female', 'male', 'male', 'female', 'female', 
+          None, None, None, None
+Study Groups: ['HC', 'AVH-', 'AVH+', 'HC', 'AVH-', 'AVH+', 
+         'AVH-', 'HC', 'AVH+', 'HC', 'AVH-', 'AVH-', 
+         'HC', 'AVH+', 'AVH-', 'AVH-', 'AVH+', 'HC', 
+         'AVH-', 'AVH-', 'HC', 'AVH-', 'AVH+', 'HC', 
+         'AVH-', 'AVH+', 'HC', 'AVH-', 'HC', 'AVH+', 
+         'AVH-', 'AVH+', 'HC', 'AVH-', 'AVH+', 'AVH+', 
+         'HC', 'AVH-', 'HC', 'AVH+', 'HC', 'AVH-', 
+         'AVH+', 'AVH+', 'HC', 'AVH-', 'HC', 'AVH+', 
+         'AVH+', 'AVH+', 'HC', 'HC', 'AVH+', 'AVH+', 
+         'AVH-', 'HC', 'AVH-', 'HC', 'AVH+', 'AVH-', 
+         'HC', 'AVH+', 'AVH+', 'AVH+', 'AVH-', 'AVH-', 
+         'AVH-', 'HC', 'AVH+', 'AVH-', 'HC', 'HC', 'AVH-', 'AVH+', 'HC', 'AVH-', 'AVH+'] 
+
+('HC':"Healthy Control." 
+
+'AVH-': "auditory verbal hallucinations" (AVH). 
+
+'AVH+':  auditory verbal hallucinations (AVH) w/ trait or condition.
